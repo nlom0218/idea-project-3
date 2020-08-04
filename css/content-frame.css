@@ -1,0 +1,13 @@
+.content-frame {
+  background-color: #f4f5f7;
+  margin: 50px 0px;
+  width: 80%;
+  padding: 60px 20px;
+  border: 3px solid #020202;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
